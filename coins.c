@@ -15,8 +15,6 @@ int main(int argc, char **argv)
 		i++;
 		}
 printf("%d\n",i);
-	for(l=0; l < i; l++){
-		
-		}
+	
 	return 0;
 }
